@@ -1,0 +1,8 @@
+{
+  "name": "service-block-159",
+  "dependencies": {
+    "lodash": "*",
+    "express": "*",
+    "react": "*"
+  }
+}

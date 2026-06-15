@@ -1,0 +1,7 @@
+{
+  "name": "deep-nested-timeout-tester",
+  "version": "1.0.0",
+  "dependencies": {
+    "nested-package-0": "1.0.0"
+  }
+}
